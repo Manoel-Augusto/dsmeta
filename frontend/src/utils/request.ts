@@ -1,1 +1,1 @@
-export const BASE_URL = import.meta.env.VITE_BACKEND_URL ?? "http://localhost:8080";
+export const BASE_URL = "https://aof-sistemas-backend-wtlm7m5axq-uc.a.run.app/" ?? "http://localhost:8080";
